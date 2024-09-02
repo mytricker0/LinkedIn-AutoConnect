@@ -15,5 +15,5 @@ const clickWithDelay = (buttons, delay) => {
   });
 };
 
-// Call the function with a 5-second delay (5000 milliseconds)
+// Call the function with a 0.1-second delay (100 miliseconds)
 clickWithDelay(buttons, 100);
